@@ -1,0 +1,1 @@
+//Pertene todas las variables declaradas con const o let dentro de un bloque
