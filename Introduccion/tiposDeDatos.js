@@ -35,3 +35,9 @@ const persona = {
 
 //FUNCIONES
 
+function hola(){
+    console.log('hola');
+}
+
+
+hola()
