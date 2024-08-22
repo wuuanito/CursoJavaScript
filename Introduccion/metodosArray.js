@@ -1,3 +1,5 @@
+const { Dial } = require("flowbite");
+
 const colores = ["rojo", "verde", "amarillo"];
 
 console.log (colores.length); //CANTIDAD DE ELEMENTOS DE UN ARRAY
@@ -24,3 +26,4 @@ console.log(colores);
 
 colores.pop(); //Eliminar el ultimo elemento 
 console.log(colores);
+
